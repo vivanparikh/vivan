@@ -1,0 +1,8 @@
+
+|H|Customer_Name|Customer_Id|Open_Date|Last_Consulted_Date|Vaccination_Id|Dr_Name|State|Country|Post_Code|DOB|Is_Active|
+|D|Alex|002|2010-10-12|2021-08-15|FZ|Paul|SA|USA|38002|1999-07-26|A|
+|D|John|001|2010-10-12|2020-10-13|MVD|Abhay|TN|IND|38001|1999-04-19|A|
+|D|Matt|004|2010-10-01|2021-06-30|CS|Abhay|BOS|NYC|38004|1999-05-07|A|
+|D|Matthew|003|2010-09-01|2021-06-16|CS|Paul|WAS|PHIL|38003|1999-05-02|A|
+|D|Rishona|005|2015-09-11|2018-03-22|FZ|Jinisha|VIC|AU|38005|1999-06-03|A|
+|D|
